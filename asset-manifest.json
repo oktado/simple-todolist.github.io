@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/simple-todolist.github.io/static/css/main.2958b51c.css",
+    "main.js": "/simple-todolist.github.io/static/js/main.eae82428.js",
+    "static/js/787.0fb8cbe0.chunk.js": "/simple-todolist.github.io/static/js/787.0fb8cbe0.chunk.js",
+    "index.html": "/simple-todolist.github.io/index.html",
+    "main.2958b51c.css.map": "/simple-todolist.github.io/static/css/main.2958b51c.css.map",
+    "main.eae82428.js.map": "/simple-todolist.github.io/static/js/main.eae82428.js.map",
+    "787.0fb8cbe0.chunk.js.map": "/simple-todolist.github.io/static/js/787.0fb8cbe0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2958b51c.css",
+    "static/js/main.eae82428.js"
+  ]
+}
